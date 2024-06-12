@@ -1,1 +1,1 @@
-In this simulation I use Monte Carlo methods to help predict future retirement savings and expenses.
+In this simulation I use Monte Carlo methods to help predict future retirement savings and expenses. To use download and unzip the files, next run RetireRunner.java and follow the prompts in the terminal. Enjoy :)
