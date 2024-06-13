@@ -1,0 +1,1 @@
+This is a Binary search tree that can store any type of data in its nodes
