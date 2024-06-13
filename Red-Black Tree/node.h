@@ -1,11 +1,3 @@
-/*******************************************************************************
- * Name          : node.h
- * Author        : Brian S. Borowski
- * Version       : 1.3
- * Date          : October 8, 2014
- * Last modified : April 8, 2020
- * Description   : Implementation of node for a red-black tree.
- ******************************************************************************/
 #ifndef NODE_H_
 #define NODE_H_
 
