@@ -1,9 +1,3 @@
-/*******************************************************************************
- * Name        : sl.c
- * Author      : Alex Coroian
- * Pledge      : I pledge my honour that I have abided by the Stevens Honour System
- ******************************************************************************/
-
 #include <stdio.h>
 #include <unistd.h>
 #include <sys/stat.h>
