@@ -1,8 +1,3 @@
-/*******************************************************************************
- * Name        : bstree.c
- * Author      : Alex Coroian
- * Pledge      : I pledge my honour that I have abided by the Stevens Honour System
- ******************************************************************************/
 #include "bstree.h"
 
 void add_node(void *data, size_t data_size, tree_t *tree, int (*cmp)(void *, void *))

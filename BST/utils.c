@@ -1,8 +1,3 @@
-/*******************************************************************************
- * Name        : utils.c
- * Author      : Alex Coroian
- * Pledge      : I pledge my Honour that I have abided by the Stevens Honour System
- ******************************************************************************/
 #include "utils.h"
 #include <stdio.h>
 
