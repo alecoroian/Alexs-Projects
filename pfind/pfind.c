@@ -1,9 +1,3 @@
-/*******************************************************************************
- * Name        : pfind.c
- * Author      : Alex Coroian
- * Pledge      : I pledge my Honour that I have abided by the Stevens Honour System
- ******************************************************************************/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/stat.h>
